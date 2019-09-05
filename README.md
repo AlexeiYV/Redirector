@@ -1,8 +1,8 @@
-# Redirector
+# Rotator
 
 ## Basic workflow
 
-Basic Redirector workflow is this:
+Basic Rotator workflow is this:
 
 `https://root_domain/rotator.php?rotator_lander=lander_name?param1=param_value -> https://random_sub_somain.root_domain/lander_name?param_value`
 
@@ -17,7 +17,7 @@ Example resulting url:
 
 ## Setup
 
-For Redirector to work you need to create entry point php file. You should keep it in root directory.
+For Rotator to work you need to create entry point php file. You should keep it in root directory.
 
 So reccomended files/folders structure is:
 
@@ -25,7 +25,7 @@ So reccomended files/folders structure is:
 
 `/inc/Rotator.php`
 
-You need to have `/inc/Rotator.php` as its a main code for redirector.
+You need to have `/inc/Rotator.php` as its a main code for Rotator.
 
 ## Configuration
 
