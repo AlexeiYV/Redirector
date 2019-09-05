@@ -9,7 +9,7 @@ Basic Rotator workflow is this:
 ## URL Params
 
 If you add this url to Voluum:
-`https://summer-rewards.com/redirector.php?rotator_lander=0509-test?cid=12345`
+`https://summer-rewards.com/rotator.php?rotator_lander=0509-test?cid=12345`
 final redirect will be to one random subdomain from the set you provided in config (will be described later). 
 **Query params will be saved.**
 Example resulting url:
