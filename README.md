@@ -22,6 +22,7 @@ For Redirector to work you need to create entry point php file. You should keep 
 So reccomended files/folders structure is:
 
 `/rotator.php`
+
 `/inc/Rotator.php`
 
 You need to have `/inc/Rotator.php` as its a main code for redirector.
